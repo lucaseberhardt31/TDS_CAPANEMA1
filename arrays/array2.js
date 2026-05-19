@@ -11,4 +11,4 @@ nomes[3] = "Gabriel"
 nomes[4] = "Victor"
 nomes[5] = "Vinicius"
 nomes[6] = "Vitor"
-console.log(nomes)
+console.log(nomes);
