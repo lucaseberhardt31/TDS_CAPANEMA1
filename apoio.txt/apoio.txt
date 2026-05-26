@@ -1,0 +1,7 @@
+/*CONCEITO             |Explicação rápida
+------------------------------------
+Função com retorno     |Usa 'return' para enviar um valor de volta
+Função em variável     |Função anônima armazenada em variável
+Função como parâmetro  |Permite comportamentos dinâmico
+Função q retorna Função|Gera funções personalizadas, conceito de closure
+*\
